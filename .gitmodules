@@ -1,0 +1,4 @@
+[submodule "installer/jce"]
+	path = installer/jce
+	url = https://github.com/vipulsonar26/Test_submodule.git
+	branch = trunk
